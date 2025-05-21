@@ -1,0 +1,14 @@
+.PokeFlex{
+    display:flex;
+    flex-direction:column;
+    flex-wrap: wrap;
+    background-color: rgb(255, 0, 0);
+    width: 400px;
+    height: 300px;
+    overflow:auto; 
+}
+
+img{
+    width: 100px;
+    height: 80px;
+}
