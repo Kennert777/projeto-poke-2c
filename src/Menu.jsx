@@ -4,12 +4,31 @@ const Menu = () =>{
 
         <div className="Menu">
         <ul className="nav">
-            <li className="nav-itm">
-                <a className="nav-link active" href="/home">
+        
+        <li className="nav-itm">
+        <a className="nav-link active" href="/home">
                 Home
+        </a>
+        
+        </li>
+         <li className="nav-itm">
+        <a className="nav-link active" href="/pokeflex">
+                PokeFlex
+        </a>
+        </li>
+        
+         <li className="nav-itm">
+        <a className="nav-link active" href="/pokegrid>
+                PokeGrid
         
         </a>
         </li>
+        
+        
+        
+        
+        
+        
         </ul>
         </div>
     )
