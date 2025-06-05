@@ -24,7 +24,6 @@ const Menu = () => {
                 PokeGrid
         </a>
         </li>
-
         
         </ul>
         </div>
